@@ -1,0 +1,58 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.hero-section{
+  height: 500px;
+  background-image: url('../images/Hero-bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hero{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  margin: 0px 40px;
+}
+
+.logo{
+  font-size: 35px;
+  font-weight: bold;
+  color: #2B25C1;
+}
+
+.button-design{
+  background-color: #4E47FF;
+  color: #FFFFFF;
+  padding: 12px 22px;
+  border: none;
+  border-radius: 10px;
+ font-size: 16px;
+}
+
+.button-design:hover{
+ background-color: #807dbd;
+  color: black;
+}
+
+.hero-content{
+   height: 450px;
+  max-width: 900px;
+  margin: 0 auto;
+ 
+}
+
+
+.content{
+  height: 250px;
+  width: 450px;
+  text-align: center;
+  margin: 150px 250px;
+ 
+}
