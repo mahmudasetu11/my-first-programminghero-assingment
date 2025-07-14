@@ -56,3 +56,38 @@ body{
   margin: 150px 250px;
  
 }
+
+
+.section2{
+  
+  max-width: 1140px;
+  height: 350px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.mid-content{
+  height: 250px;
+  width: 350px;
+}
+
+
+
+
+.image-content img{
+  height:350px;
+  width: 650px;
+  border-radius: 10px;
+}
+
+.main-content{
+  max-width: 1140px;
+  height: 150x;
+  margin: 0 auto;
+  background-color:#f5f8ff;
+  margin-top: 100px;
+  
+}
