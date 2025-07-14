@@ -137,6 +137,8 @@ body{
 
 
 
+
+
 .second-section{
   width: 55%;
   padding: 50px 100px;
@@ -152,5 +154,70 @@ body{
   padding: 15px 180px;
   border-radius: 10px;
   text-align: center;
+  
+}
+
+
+.review-content{
+   max-width: 1140px;
+  height: 150x;
+  margin: 0 auto;
+  background-color:#e5e7ff;
+  margin-top: 100px;
+  
+
+}
+.input-design{
+  height: 30px;
+  width: 100%;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+}
+
+.input-design1{
+  height:90px ;
+  width: 100%;
+  border: none;
+  border-radius: 6px;
+}
+
+
+.footer{
+   max-width: 1140px;
+  height: 150x;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+
+.brand-design{
+  text-align: center;
+  color: #2B25C1;
+  font-size: 60px;
+}
+
+.text-design{
+  text-align: center;
+  margin: 10px 350px;
+}
+
+.footer-list{
+  display: flex;
+  justify-content: center;
+ gap: 40px;
+}
+
+
+
+.footer-list li{
+  list-style: none;
+  
+}
+
+
+.footer-list li a{
+  text-decoration: none;
+ color: black;
   
 }
