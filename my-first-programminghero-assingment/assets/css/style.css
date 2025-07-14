@@ -91,3 +91,66 @@ body{
   margin-top: 100px;
   
 }
+
+
+.flex-iteams{
+    height: 150px;
+    width: 100%;
+    display: flex;
+     justify-content: space-around;
+     align-items: center;
+
+ 
+}
+
+
+.flex-iteam{
+  color: #4E47FF;
+   display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+
+}
+
+
+.from-content{
+  max-width: 1140px;
+  height: 500px;
+  background-color: #e5e7ff;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.first-section{
+ width: 42%;
+ margin: 20px 60px;
+}
+
+
+.first-section h1{
+  font-size: 42px;
+}
+
+
+
+.second-section{
+  width: 55%;
+  padding: 50px 100px;
+}
+
+
+
+.submit-btn{
+  
+  text-decoration: none;
+  background-color: #4E47FF;
+  color: white;
+  padding: 15px 180px;
+  border-radius: 10px;
+  text-align: center;
+  
+}
